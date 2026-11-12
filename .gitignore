@@ -1,0 +1,9 @@
+# Exécutables compilés
+suivi-de-ligne/suivi_de_ligne
+pilotage-clavier/pilotage_clavier
+
+# Généré par la bibliothèque Sense HAT à l'exécution
+RTIMULib.ini
+
+# Réglages locaux de VS Code
+.vscode/
